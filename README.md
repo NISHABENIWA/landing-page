@@ -1,2 +1,2 @@
-# landing-page
-https://nishabeniwa.github.io/landing-page/ tap here to see my project
+# oibsip_taskno.1
+https://nishabeniwa.github.io/oibsip-taskno.1/ tap here to see my project
